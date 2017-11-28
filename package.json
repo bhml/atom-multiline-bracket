@@ -1,0 +1,19 @@
+{
+  "name": "multiline-bracket",
+  "main": "./lib/multiline-bracket",
+  "version": "0.0.0",
+  "description": "Split the contents within brackets/braces over multiple lines",
+  "keywords": [
+    "mulitline-brackets",
+    "mulitline-braces",
+    "mulitline-parens"
+  ],
+  "activationCommands": {
+    "atom-workspace": "multiline-bracket:apply"
+  },
+  "repository": "https://github.com/bhml/atom-multiline-bracket",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}

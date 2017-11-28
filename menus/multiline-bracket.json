@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Apply Multi-Line to Brackets",
+        "command": "multiline-bracket:apply"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Multi-Line Bracket",
+          "submenu": [
+            {
+              "label": "Apply",
+              "command": "multiline-bracket:apply"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
