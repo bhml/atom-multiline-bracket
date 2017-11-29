@@ -1,7 +1,7 @@
 {
   "name": "multiline-bracket",
   "main": "./lib/multiline-bracket",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Split the contents within brackets/braces over multiple lines",
   "keywords": [
     "mulitline-brackets",
